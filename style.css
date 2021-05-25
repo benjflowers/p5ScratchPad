@@ -1,0 +1,7 @@
+div.wrapper {
+  display: grid;
+  width: auto;
+  height: 100vh;
+  justify-content: center;
+  align-content: center;
+}
